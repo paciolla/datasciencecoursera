@@ -5,3 +5,4 @@ datasciencecoursera
 
 * Do good
 * Be strong
+* Learn a little
